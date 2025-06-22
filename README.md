@@ -12,3 +12,4 @@ Este proyecto sirve para practicar Git, GitHub y VS Code.
 ## Autor
 
 Jerónimo Ferrer
+Futuro Data Science
